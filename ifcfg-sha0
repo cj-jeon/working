@@ -1,0 +1,10 @@
+DEVICE=sha0
+#IPADDR=
+#NETMASK=
+BOOTPROTO=dhcp
+ONBOOT=yes
+DEVICETYPE=sha
+HOTPLUG=no
+PEERDNS=yes
+DNS1=<主DNSサーバのIPアドレス>
+DNS2=<副DNSサーバのIPアドレス>
